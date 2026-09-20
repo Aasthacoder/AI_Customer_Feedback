@@ -1,0 +1,12 @@
+## The libraries required for this project are:
+
+pandas
+numpy
+requests
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers
+jupyter
+openpyxl
+tqdm
